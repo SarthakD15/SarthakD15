@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Deshmukh</h1>
 <h3 align="center">Frontend developer, Cyber Security enthusiast, Problem Solver from India</h3>
+<img align="right" alt="Hello" width="400" src="https://media.tenor.com/79djON9nNhMAAAAC/0001.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakd15&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakd15" /> </p>
 
